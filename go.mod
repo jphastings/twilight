@@ -1,3 +1,3 @@
-module github.com/goastro/twilight
+module github.com/jphastings/twilight
 
-go 1.13
+go 1.17
